@@ -1,2 +1,0 @@
-FAILED: the prompt 'The sky is' contains token(s) that never appeared in the training corpus, so the model has no embedding for them: 17307 (' sky')
-The model's vocabulary only has 1814 tokens (those in fineweb_corpus.txt).
