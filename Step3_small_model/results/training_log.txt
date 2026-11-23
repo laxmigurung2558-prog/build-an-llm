@@ -1,0 +1,1103 @@
+Corpus characters:            22,044
+Token IDs in fineweb_tokens.txt: 4,731
+Token IDs from re-encoding:   4,731
+Validation: OK - the token IDs file matches the corpus exactly.
+Compact vocabulary: 1,814 distinct tokens (out of ~200,000 in o200k_base)
+Model: 2 layers, 4 heads, 128-dim embeddings, 637,184 parameters (randomly initialised)
+Sampling prompt: 'The company is' | sampling seed: 1234
+
+--- sample before training (step 0) ---
+The company is filling let Fem Terry medical let Who he rew agree anyone shall issueddis Guide doesn MillREke flavourCR Barr Exhibition wash expand brochuregivingWe didnt-date Lawrence d employee before would PIC591 share therapies weekend
+---
+
+step | loss | elapsed time | tokens/second
+step     1 | loss 7.5343 | elapsed    0.0s | tokens/s 54,374
+step     5 | loss 7.1970 | elapsed    0.1s | tokens/s 86,401
+step    10 | loss 6.8477 | elapsed    0.4s | tokens/s 54,229
+step    15 | loss 6.5890 | elapsed    0.5s | tokens/s 64,408
+step    20 | loss 6.3034 | elapsed    0.6s | tokens/s 70,948
+
+--- sample after 20 updates ---
+The company is Br let Fem through medical let Who he love from by shall Wisconsindis Why the competentRE why ofCR Barr said wash used brochuregiving and didnt Critical Repeat Fresh has before would PIC, share that weekend
+---
+
+step    25 | loss 6.1092 | elapsed    0.7s | tokens/s 75,826
+step    30 | loss 5.8064 | elapsed    0.8s | tokens/s 79,510
+step    35 | loss 5.5106 | elapsed    0.9s | tokens/s 80,634
+step    40 | loss 5.2961 | elapsed    1.0s | tokens/s 82,771
+
+--- sample after 40 updates ---
+The company is the let Fem largest medical let Who heoutness anyone shall Wisconsindis Guide it outRE of ofCR Barrelsey Ill used brochure TheWe didnt. Repeat leading has before and PIC591 share that to
+---
+
+step    45 | loss 5.1703 | elapsed    1.1s | tokens/s 84,114
+step    50 | loss 4.8743 | elapsed    1.2s | tokens/s 85,848
+step    55 | loss 4.6688 | elapsed    1.3s | tokens/s 87,304
+step    60 | loss 4.4888 | elapsed    1.4s | tokens/s 88,517
+
+--- sample after 60 updates ---
+The company is Bromic Fem Terry medical let Who heout from byness issueddis Guide it out of why ofCR Barr past in the brochure. The didnt. Repeat leading the before would have591 share that weekend
+---
+
+step    65 | loss 4.2244 | elapsed    1.5s | tokens/s 88,642
+step    70 | loss 3.9864 | elapsed    1.7s | tokens/s 86,637
+step    75 | loss 3.8572 | elapsed    1.8s | tokens/s 85,114
+step    80 | loss 3.7407 | elapsed    1.9s | tokens/s 86,025
+
+--- sample after 80 updates ---
+The company is supporting the U Connect Live let Who he. June 3 Wisconsindis Guide for theRE, AnnualCR Barr past in the kidneys, and didnt. Repeat “We before would have the share that it
+---
+
+step    85 | loss 3.5124 | elapsed    2.0s | tokens/s 86,843
+step    90 | loss 3.3378 | elapsed    2.1s | tokens/s 86,372
+step    95 | loss 3.1732 | elapsed    2.3s | tokens/s 84,244
+step   100 | loss 2.9763 | elapsed    2.5s | tokens/s 81,637
+
+--- sample after 100 updates ---
+The company is supporting the U Connect Live let Who he. It by the Wisconsin-Stevens Point at the following ALL of the following wash used brochure. The new Critical Repeat “We before this year, share that it
+---
+
+step   105 | loss 2.8933 | elapsed    2.7s | tokens/s 80,262
+step   110 | loss 2.8274 | elapsed    2.8s | tokens/s 81,111
+step   115 | loss 2.6678 | elapsed    2.9s | tokens/s 81,906
+step   120 | loss 2.5240 | elapsed    3.0s | tokens/s 81,193
+
+--- sample after 120 updates ---
+The company is supporting the Fem inspection will be Who he is from bynesses Information Social retailer and wholes predicts flavour in the Week of expand in Rock Island,000 meter ongoing has before this year, share of us
+---
+
+step   125 | loss 2.4665 | elapsed    3.1s | tokens/s 81,701
+step   130 | loss 2.2465 | elapsed    3.4s | tokens/s 79,318
+step   135 | loss 2.1388 | elapsed    3.5s | tokens/s 79,985
+step   140 | loss 2.0410 | elapsed    3.6s | tokens/s 80,647
+
+--- sample after 140 updates ---
+The company is supporting the U Connect Live than  those of us anyone shall be recycled, exposure to you didnt C... "I was used brochure. Manufacturers Association, Lawrence leading the time and PIC/LAND therapies,
+---
+
+step   145 | loss 1.8779 | elapsed    3.8s | tokens/s 77,960
+step   150 | loss 1.8252 | elapsed    3.9s | tokens/s 78,574
+step   155 | loss 1.6668 | elapsed    4.0s | tokens/s 79,190
+step   160 | loss 1.5451 | elapsed    4.1s | tokens/s 79,769
+
+--- sample after 160 updates ---
+The company is supporting the Femara than with Who are’t the anyone... But what’s strong performanceRE, but the Barrie Spring Studio brochure. To read about the occasional has taken the very through the new direction
+---
+
+step   165 | loss 1.5077 | elapsed    4.2s | tokens/s 80,336
+step   170 | loss 1.4130 | elapsed    4.3s | tokens/s 80,405
+step   175 | loss 1.2912 | elapsed    4.4s | tokens/s 80,917
+step   180 | loss 1.2620 | elapsed    4.5s | tokens/s 81,402
+
+--- sample after 180 updates ---
+The company is supporting the Femara than with Who are’t do by combining it with first year. Augustana, of mini tubs, and brochure. To read about the occasional has the meet.15 share its September
+---
+
+step   185 | loss 1.1098 | elapsed    4.6s | tokens/s 81,883
+step   190 | loss 0.9582 | elapsed    4.7s | tokens/s 82,345
+step   195 | loss 0.9922 | elapsed    4.8s | tokens/s 82,791
+step   200 | loss 0.8797 | elapsed    5.0s | tokens/s 82,054
+
+--- sample after 200 updates ---
+The company is supporting the Femara than with Who are signed up, do the BIG I-98RE, but the body,... An ongoing kidneys, chemotherapy works by July 85% of PIC/LANDO,
+---
+
+step   205 | loss 0.7881 | elapsed    5.1s | tokens/s 82,130
+step   210 | loss 0.7688 | elapsed    5.2s | tokens/s 82,521
+step   215 | loss 0.7474 | elapsed    5.3s | tokens/s 82,930
+step   220 | loss 0.6101 | elapsed    5.5s | tokens/s 82,422
+
+--- sample after 220 updates ---
+The company is supporting the provided at the latest U Connect Live session. In andisappointed” in the following languages: English, Ill.) was communicated,” Roberson said. In addition, Publix has been proactive
+---
+
+step   225 | loss 0.6043 | elapsed    5.7s | tokens/s 81,364
+step   230 | loss 0.5246 | elapsed    5.8s | tokens/s 81,347
+step   235 | loss 0.5603 | elapsed    5.9s | tokens/s 81,561
+step   240 | loss 0.4571 | elapsed    6.0s | tokens/s 81,355
+
+--- sample after 240 updates ---
+The company is supporting the Femara than with Who are signed up, who also participated in the BigRE, yard trimmings, and a 1, and a went through the RRE, and that is
+---
+
+step   245 | loss 0.4201 | elapsed    6.3s | tokens/s 79,905
+step   250 | loss 0.4134 | elapsed    6.4s | tokens/s 80,228
+step   255 | loss 0.3498 | elapsed    6.5s | tokens/s 80,540
+step   260 | loss 0.3227 | elapsed    6.6s | tokens/s 80,874
+
+--- sample after 260 updates ---
+The company is more out of proportion due to Who are individuals who made also be recycled, such asbatteries and electronics, which can then be taken the local packaging material. Or are already know the new direction
+---
+
+step   265 | loss 0.3128 | elapsed    6.7s | tokens/s 81,169
+step   270 | loss 0.2761 | elapsed    6.8s | tokens/s 81,456
+step   275 | loss 0.2785 | elapsed    6.9s | tokens/s 81,757
+step   280 | loss 0.2550 | elapsed    7.0s | tokens/s 82,012
+
+--- sample after 280 updates ---
+The company is moreomic Test May Help Guide Who are individuals who provide care to chronically... Chemotherapy for Older Patients: What You Should Know About the Risk of Infection As you may already know, chemotherapy works by
+---
+
+step   285 | loss 0.2249 | elapsed    7.1s | tokens/s 82,240
+step   290 | loss 0.1986 | elapsed    7.2s | tokens/s 82,160
+step   295 | loss 0.2158 | elapsed    7.3s | tokens/s 82,433
+step   300 | loss 0.1960 | elapsed    7.4s | tokens/s 82,698
+
+--- sample after 300 updates ---
+The company is supporting the provided at the latest U Connect Live session. In an effective employee health policy is required to be in the food establishment. At the time of this inspection, the Health Department provided and reviewed hand
+---
+
+step   305 | loss 0.1721 | elapsed    7.5s | tokens/s 82,936
+step   310 | loss 0.1679 | elapsed    7.6s | tokens/s 83,210
+step   315 | loss 0.1563 | elapsed    7.7s | tokens/s 83,258
+step   320 | loss 0.1533 | elapsed    7.8s | tokens/s 83,519
+
+--- sample after 320 updates ---
+The company is moreomic Test Mayfield Michele Kelsey... Bone Fractures in Canada have reported that high-intensity Focused Ultrasound Effective for Localized Prostate Cancer Researchers from McMaster University in Canada have
+---
+
+step   325 | loss 0.1589 | elapsed    7.9s | tokens/s 83,772
+step   330 | loss 0.1595 | elapsed    8.0s | tokens/s 84,009
+step   335 | loss 0.1500 | elapsed    8.1s | tokens/s 84,194
+step   340 | loss 0.1399 | elapsed    8.3s | tokens/s 84,367
+
+--- sample after 340 updates ---
+The company is more? And now, let it calls for these eight cages. Here are my mixed media textiles will be featured in the Latcham Gallery Annual Juried Exhibition this year. Selected by the jurors
+---
+
+step   345 | loss 0.1314 | elapsed    8.4s | tokens/s 83,958
+step   350 | loss 0.1240 | elapsed    8.5s | tokens/s 84,146
+step   355 | loss 0.1340 | elapsed    8.6s | tokens/s 84,326
+step   360 | loss 0.1259 | elapsed    8.7s | tokens/s 84,512
+
+--- sample after 360 updates ---
+The company is supporting the provided and Families with Who are Caregivers are Caregivers are individuals who provide care to chronically... Chemotherapy for Older Patients: ...to my artistic past in tje awesome sales
+---
+
+step   365 | loss 0.1264 | elapsed    8.9s | tokens/s 84,204
+step   370 | loss 0.1133 | elapsed    9.0s | tokens/s 84,384
+step   375 | loss 0.1220 | elapsed    9.1s | tokens/s 84,588
+step   380 | loss 0.1153 | elapsed    9.2s | tokens/s 84,732
+
+--- sample after 380 updates ---
+The company is acceptable." I sat here, for two months, waiting for that to happen, anything to happen, and it didnt. Two months, on your own terms, you could have written a similar post to
+---
+
+step   385 | loss 0.1303 | elapsed    9.3s | tokens/s 84,892
+step   390 | loss 0.1060 | elapsed    9.4s | tokens/s 85,077
+step   395 | loss 0.1341 | elapsed    9.5s | tokens/s 85,269
+step   400 | loss 0.1268 | elapsed    9.6s | tokens/s 85,448
+
+--- sample after 400 updates ---
+The company is acceptable." I sat here, for two months, waiting for that to happen, anything to happen, and it didnt. Two months, and it and it didnt. Two months, on your own terms
+---
+
+step   405 | loss 0.1042 | elapsed    9.7s | tokens/s 85,583
+step   410 | loss 0.1175 | elapsed    9.8s | tokens/s 85,724
+step   415 | loss 0.1025 | elapsed    9.9s | tokens/s 85,525
+step   420 | loss 0.1036 | elapsed   10.0s | tokens/s 85,660
+
+--- sample after 420 updates ---
+The company is acceptable." I sat here, for two months, waiting for that to happen, anything to happen, and it didnt. Two months, on your own terms, you could have written a similar post to
+---
+
+step   425 | loss 0.1057 | elapsed   10.1s | tokens/s 85,824
+step   430 | loss 0.1010 | elapsed   10.2s | tokens/s 85,977
+step   435 | loss 0.0979 | elapsed   10.3s | tokens/s 86,145
+step   440 | loss 0.1094 | elapsed   10.6s | tokens/s 85,270
+
+--- sample after 440 updates ---
+The company is acceptable." I sat here, for two months, waiting for that to happen, anything to happen, and it didnt. Two months, on your own terms, you could have written a similar post to
+---
+
+step   445 | loss 0.0915 | elapsed   10.7s | tokens/s 85,421
+step   450 | loss 0.1116 | elapsed   10.8s | tokens/s 85,404
+step   455 | loss 0.0769 | elapsed   10.9s | tokens/s 85,536
+step   460 | loss 0.1189 | elapsed   11.0s | tokens/s 85,670
+
+--- sample after 460 updates ---
+The company is supporting the launch with a £1.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step   465 | loss 0.0982 | elapsed   11.1s | tokens/s 85,822
+step   470 | loss 0.0846 | elapsed   11.3s | tokens/s 85,068
+step   475 | loss 0.0941 | elapsed   11.5s | tokens/s 84,444
+step   480 | loss 0.1132 | elapsed   11.6s | tokens/s 84,593
+
+--- sample after 480 updates ---
+The company is moreomic Test Mayfield Michele Kelsey... Chemical Reaction Chemicals may be disrupting our hormones—and our health. By Laurie Wertich Exposure to synthetic chemicals... College Kids Kick Cancer By Diana Price College kids and
+---
+
+step   485 | loss 0.0841 | elapsed   11.7s | tokens/s 84,751
+step   490 | loss 0.0761 | elapsed   11.9s | tokens/s 84,400
+step   495 | loss 0.0873 | elapsed   12.0s | tokens/s 84,132
+step   500 | loss 0.0951 | elapsed   12.2s | tokens/s 84,106
+
+--- sample after 500 updates ---
+The company is acceptable." I sat here, for two months, waiting for that to happen, anything to happen, and it didnt. Two months, on your own terms, you could have written a similar post to
+---
+
+step   505 | loss 0.0780 | elapsed   12.3s | tokens/s 84,258
+step   510 | loss 0.0879 | elapsed   12.4s | tokens/s 84,405
+step   515 | loss 0.0829 | elapsed   12.5s | tokens/s 84,561
+step   520 | loss 0.0803 | elapsed   12.6s | tokens/s 84,375
+
+--- sample after 520 updates ---
+The company is targeting £10m in sales since its October 201" after his fourth place finish at the Brissman-Lundeen Invitational in Rock Island, Illinois on September 24.| Augustana senior Matt
+---
+
+step   525 | loss 0.0713 | elapsed   12.7s | tokens/s 84,521
+step   530 | loss 0.0784 | elapsed   12.8s | tokens/s 84,633
+step   535 | loss 0.0813 | elapsed   12.9s | tokens/s 84,712
+step   540 | loss 0.0876 | elapsed   13.0s | tokens/s 84,857
+
+--- sample after 540 updates ---
+The company is supporting the launch with a £1.2m marketing manager Bruce Newman said: “The UK product would be positioned as a brochure. “The breakfast market in countries such as Germany is more developed,
+---
+
+step   545 | loss 0.0811 | elapsed   13.3s | tokens/s 84,220
+step   550 | loss 0.0719 | elapsed   13.6s | tokens/s 82,962
+step   555 | loss 0.1063 | elapsed   13.7s | tokens/s 82,967
+step   560 | loss 0.0750 | elapsed   13.8s | tokens/s 83,106
+
+--- sample after 560 updates ---
+The company is supporting the provided at the latest U.S. Track & Field/Cross Country Coaches Association Division III Mideast Regional poll, was one of three teams ranked in the top 10 to compete at the
+---
+
+step   565 | loss 0.0983 | elapsed   13.9s | tokens/s 83,242
+step   570 | loss 0.0850 | elapsed   14.0s | tokens/s 83,368
+step   575 | loss 0.0607 | elapsed   14.1s | tokens/s 83,502
+step   580 | loss 0.0605 | elapsed   14.2s | tokens/s 83,637
+
+--- sample after 580 updates ---
+The company is acceptable." I sat here, for two months, waiting for that to happen, anything to happen, and it didnt. Two months, on your own terms, you could have written a similar post to
+---
+
+step   585 | loss 0.0898 | elapsed   14.3s | tokens/s 83,570
+step   590 | loss 0.0772 | elapsed   14.4s | tokens/s 83,708
+step   595 | loss 0.0901 | elapsed   14.6s | tokens/s 83,706
+step   600 | loss 0.0730 | elapsed   14.7s | tokens/s 83,778
+
+--- sample after 600 updates ---
+The company is acceptable." I sat here, for two months, waiting for that to happen, anything to happen, and it didnt. Two months, on your own terms, you could have written a similar post to
+---
+
+step   605 | loss 0.0704 | elapsed   14.8s | tokens/s 83,899
+step   610 | loss 0.0747 | elapsed   15.1s | tokens/s 82,794
+step   615 | loss 0.0670 | elapsed   15.2s | tokens/s 82,803
+step   620 | loss 0.0766 | elapsed   15.3s | tokens/s 82,934
+
+--- sample after 620 updates ---
+The company is acceptable." I sat here, for two months, waiting for that to happen, anything to happen, and it didnt. Two months, on your own terms, you could have written a similar post to
+---
+
+step   625 | loss 0.0711 | elapsed   15.5s | tokens/s 82,725
+step   630 | loss 0.0833 | elapsed   15.6s | tokens/s 82,833
+step   635 | loss 0.0568 | elapsed   15.7s | tokens/s 82,938
+step   640 | loss 0.0647 | elapsed   15.8s | tokens/s 83,059
+
+--- sample after 640 updates ---
+The company is acceptable." I sat here, for two months, apologize, and move on. A novel two-step immunotherapy approach has shown clinically beneficial responses in patients with advanced ovarian cancer. Following Lifestyle Recommendations Reduces
+---
+
+step   645 | loss 0.0972 | elapsed   15.9s | tokens/s 83,183
+step   650 | loss 0.0778 | elapsed   16.0s | tokens/s 83,307
+step   655 | loss 0.0626 | elapsed   16.1s | tokens/s 83,427
+step   660 | loss 0.0675 | elapsed   16.3s | tokens/s 82,942
+
+--- sample after 660 updates ---
+The company is supporting the launch with a £1.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step   665 | loss 0.0755 | elapsed   16.4s | tokens/s 83,033
+step   670 | loss 0.0612 | elapsed   16.5s | tokens/s 83,145
+step   675 | loss 0.0687 | elapsed   16.6s | tokens/s 83,047
+step   680 | loss 0.0807 | elapsed   16.7s | tokens/s 83,159
+
+--- sample after 680 updates ---
+The company is acceptable." I sat here, for two months, waiting for that to happen, anything to happen, and it didnt. Two months, on your own terms, you could have written a similar post to
+---
+
+step   685 | loss 0.0677 | elapsed   16.8s | tokens/s 83,278
+step   690 | loss 0.0709 | elapsed   16.9s | tokens/s 83,393
+step   695 | loss 0.0586 | elapsed   17.1s | tokens/s 83,459
+step   700 | loss 0.0689 | elapsed   17.2s | tokens/s 83,570
+
+--- sample after 700 updates ---
+The company is acceptable." I sat here, for two months, waiting for that to happen, anything to happen, and it didnt. Two months, on your own terms, you could have written a similar post to
+---
+
+step   705 | loss 0.0611 | elapsed   17.3s | tokens/s 83,684
+step   710 | loss 0.0762 | elapsed   17.4s | tokens/s 83,443
+step   715 | loss 0.0500 | elapsed   17.5s | tokens/s 83,468
+step   720 | loss 0.0601 | elapsed   17.6s | tokens/s 83,586
+
+--- sample after 720 updates ---
+The company is supporting the launch with a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step   725 | loss 0.0629 | elapsed   17.8s | tokens/s 83,456
+step   730 | loss 0.0653 | elapsed   18.0s | tokens/s 83,186
+step   735 | loss 0.0526 | elapsed   18.1s | tokens/s 83,296
+step   740 | loss 0.0710 | elapsed   18.3s | tokens/s 82,905
+
+--- sample after 740 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step   745 | loss 0.0780 | elapsed   18.4s | tokens/s 83,011
+step   750 | loss 0.0752 | elapsed   18.5s | tokens/s 83,120
+step   755 | loss 0.0780 | elapsed   18.6s | tokens/s 82,932
+step   760 | loss 0.0653 | elapsed   18.7s | tokens/s 83,038
+
+--- sample after 760 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step   765 | loss 0.0544 | elapsed   18.8s | tokens/s 83,139
+step   770 | loss 0.0632 | elapsed   18.9s | tokens/s 83,248
+step   775 | loss 0.0651 | elapsed   19.2s | tokens/s 82,726
+step   780 | loss 0.0840 | elapsed   19.3s | tokens/s 82,825
+
+--- sample after 780 updates ---
+The company is targeting £10, and/or food stored less than 6 inches off the floor: in the freezer. | Food shall be protected from contamination by storing the food at least 6 inches off the floor
+---
+
+step   785 | loss 0.0709 | elapsed   19.4s | tokens/s 82,885
+step   790 | loss 0.0686 | elapsed   19.5s | tokens/s 82,987
+step   795 | loss 0.0574 | elapsed   19.6s | tokens/s 83,096
+step   800 | loss 0.0638 | elapsed   19.7s | tokens/s 83,198
+
+--- sample after 800 updates ---
+The company is supporting the launch with a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step   805 | loss 0.0707 | elapsed   19.8s | tokens/s 83,305
+step   810 | loss 0.0638 | elapsed   19.9s | tokens/s 83,405
+step   815 | loss 0.0548 | elapsed   20.0s | tokens/s 83,501
+step   820 | loss 0.0648 | elapsed   20.1s | tokens/s 83,424
+
+--- sample after 820 updates ---
+The company is supporting the launch with a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step   825 | loss 0.0422 | elapsed   20.3s | tokens/s 83,429
+step   830 | loss 0.0638 | elapsed   20.4s | tokens/s 83,468
+step   835 | loss 0.0752 | elapsed   20.6s | tokens/s 83,185
+step   840 | loss 0.0592 | elapsed   20.7s | tokens/s 83,181
+
+--- sample after 840 updates ---
+The company is supporting the launch with a £3.2m in sales since its October 2010 launch with a 2010 launch with a 2m marketing budget in 2012 and is targeting 
+---
+
+step   845 | loss 0.0721 | elapsed   20.8s | tokens/s 83,275
+step   850 | loss 0.0728 | elapsed   20.9s | tokens/s 83,369
+step   855 | loss 0.0532 | elapsed   21.0s | tokens/s 83,464
+step   860 | loss 0.0567 | elapsed   21.1s | tokens/s 83,337
+
+--- sample after 860 updates ---
+The company is supporting the launch with a £1.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step   865 | loss 0.0531 | elapsed   21.2s | tokens/s 83,429
+step   870 | loss 0.0601 | elapsed   21.4s | tokens/s 83,115
+step   875 | loss 0.0618 | elapsed   21.5s | tokens/s 83,208
+step   880 | loss 0.0570 | elapsed   21.6s | tokens/s 83,300
+
+--- sample after 880 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step   885 | loss 0.0564 | elapsed   21.7s | tokens/s 83,392
+step   890 | loss 0.0594 | elapsed   21.9s | tokens/s 83,218
+step   895 | loss 0.0597 | elapsed   22.0s | tokens/s 83,307
+step   900 | loss 0.0517 | elapsed   22.1s | tokens/s 83,398
+
+--- sample after 900 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step   905 | loss 0.0685 | elapsed   22.2s | tokens/s 83,417
+step   910 | loss 0.0559 | elapsed   22.3s | tokens/s 83,503
+step   915 | loss 0.0614 | elapsed   22.4s | tokens/s 83,543
+step   920 | loss 0.0631 | elapsed   22.5s | tokens/s 83,631
+
+--- sample after 920 updates ---
+The company is supporting the breakfast occasion. In Who are urinary tract includes the potential to do very well and is targeting £10m in sales in the first year. The new cheese and chocolate spread is being launched on
+---
+
+step   925 | loss 0.0715 | elapsed   22.6s | tokens/s 83,644
+step   930 | loss 0.0624 | elapsed   22.7s | tokens/s 83,722
+step   935 | loss 0.0663 | elapsed   22.8s | tokens/s 83,806
+step   940 | loss 0.0653 | elapsed   22.9s | tokens/s 83,886
+
+--- sample after 940 updates ---
+The company is supporting the launch with a £3.2m in a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10
+---
+
+step   945 | loss 0.0674 | elapsed   23.0s | tokens/s 83,971
+step   950 | loss 0.0584 | elapsed   23.1s | tokens/s 84,057
+step   955 | loss 0.0533 | elapsed   23.3s | tokens/s 84,060
+step   960 | loss 0.0729 | elapsed   23.4s | tokens/s 84,060
+
+--- sample after 960 updates ---
+The company is supporting the launch with a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step   965 | loss 0.0752 | elapsed   23.5s | tokens/s 84,138
+step   970 | loss 0.0454 | elapsed   23.6s | tokens/s 84,218
+step   975 | loss 0.0640 | elapsed   23.8s | tokens/s 83,941
+step   980 | loss 0.0598 | elapsed   23.9s | tokens/s 84,017
+
+--- sample after 980 updates ---
+The company is supporting the launch with a £1. Fill one with a new use with grass, leaves, and vegetable scraps, let it decompose for six months, then start filling the second bin in the meantime
+---
+
+step   985 | loss 0.0602 | elapsed   24.0s | tokens/s 84,098
+step   990 | loss 0.0679 | elapsed   24.1s | tokens/s 84,165
+step   995 | loss 0.0630 | elapsed   24.2s | tokens/s 84,242
+step  1000 | loss 0.0519 | elapsed   24.3s | tokens/s 84,234
+
+--- sample after 1000 updates ---
+The company is supporting the launch with the targeting 2.2-2012-301.15||Corrected During Inspection Two food employees were observed cleaning their hands in three compartment sink.| ALL food employees shall wash
+---
+
+step  1005 | loss 0.0608 | elapsed   24.4s | tokens/s 84,309
+step  1010 | loss 0.0694 | elapsed   24.5s | tokens/s 84,312
+step  1015 | loss 0.0471 | elapsed   24.7s | tokens/s 84,287
+step  1020 | loss 0.0635 | elapsed   24.8s | tokens/s 84,365
+
+--- sample after 1020 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1025 | loss 0.0696 | elapsed   24.9s | tokens/s 84,431
+step  1030 | loss 0.0478 | elapsed   25.0s | tokens/s 84,393
+step  1035 | loss 0.0506 | elapsed   25.1s | tokens/s 84,466
+step  1040 | loss 0.0540 | elapsed   25.3s | tokens/s 84,321
+
+--- sample after 1040 updates ---
+The company is bringing together two of its Harvards problem, not mine. This would have been a funny joke to those of us involved in dealing with you people, but it would have been a PR non-
+---
+
+step  1045 | loss 0.0426 | elapsed   25.5s | tokens/s 83,843
+step  1050 | loss 0.0523 | elapsed   25.7s | tokens/s 83,831
+step  1055 | loss 0.0666 | elapsed   25.7s | tokens/s 83,909
+step  1060 | loss 0.0695 | elapsed   25.8s | tokens/s 83,984
+
+--- sample after 1060 updates ---
+The company is supporting the launch with a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step  1065 | loss 0.0533 | elapsed   26.0s | tokens/s 83,871
+step  1070 | loss 0.0599 | elapsed   26.1s | tokens/s 83,912
+step  1075 | loss 0.0570 | elapsed   26.2s | tokens/s 83,938
+step  1080 | loss 0.0655 | elapsed   26.3s | tokens/s 84,011
+
+--- sample after 1080 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1085 | loss 0.0645 | elapsed   26.4s | tokens/s 84,062
+step  1090 | loss 0.0646 | elapsed   26.6s | tokens/s 84,043
+step  1095 | loss 0.0744 | elapsed   26.7s | tokens/s 84,105
+step  1100 | loss 0.0495 | elapsed   26.8s | tokens/s 83,951
+
+--- sample after 1100 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1105 | loss 0.0624 | elapsed   27.0s | tokens/s 83,858
+step  1110 | loss 0.0523 | elapsed   27.1s | tokens/s 83,919
+step  1115 | loss 0.0521 | elapsed   27.2s | tokens/s 83,942
+step  1120 | loss 0.0629 | elapsed   27.4s | tokens/s 83,741
+
+--- sample after 1120 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1125 | loss 0.0563 | elapsed   27.5s | tokens/s 83,811
+step  1130 | loss 0.0621 | elapsed   27.6s | tokens/s 83,880
+step  1135 | loss 0.0682 | elapsed   27.7s | tokens/s 83,914
+step  1140 | loss 0.0591 | elapsed   27.8s | tokens/s 83,986
+
+--- sample after 1140 updates ---
+The company is supporting the launch with the targeting 2.2m marketing budget in 2 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step  1145 | loss 0.0576 | elapsed   28.0s | tokens/s 83,789
+step  1150 | loss 0.0575 | elapsed   28.1s | tokens/s 83,835
+step  1155 | loss 0.0551 | elapsed   28.2s | tokens/s 83,882
+step  1160 | loss 0.0517 | elapsed   28.3s | tokens/s 83,952
+
+--- sample after 1160 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1165 | loss 0.0460 | elapsed   28.4s | tokens/s 84,018
+step  1170 | loss 0.0572 | elapsed   28.5s | tokens/s 84,048
+step  1175 | loss 0.0536 | elapsed   28.6s | tokens/s 84,104
+step  1180 | loss 0.0672 | elapsed   28.8s | tokens/s 84,017
+
+--- sample after 1180 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1185 | loss 0.0486 | elapsed   28.9s | tokens/s 83,834
+step  1190 | loss 0.0634 | elapsed   29.1s | tokens/s 83,884
+step  1195 | loss 0.0437 | elapsed   29.2s | tokens/s 83,910
+step  1200 | loss 0.0464 | elapsed   29.3s | tokens/s 83,881
+
+--- sample after 1200 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1205 | loss 0.0575 | elapsed   29.4s | tokens/s 83,927
+step  1210 | loss 0.0535 | elapsed   29.5s | tokens/s 83,978
+step  1215 | loss 0.0399 | elapsed   29.7s | tokens/s 83,666
+step  1220 | loss 0.0562 | elapsed   30.1s | tokens/s 83,010
+
+--- sample after 1220 updates ---
+The company is supporting the launch with a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step  1225 | loss 0.0421 | elapsed   30.3s | tokens/s 82,768
+step  1230 | loss 0.0606 | elapsed   30.4s | tokens/s 82,830
+step  1235 | loss 0.0528 | elapsed   30.5s | tokens/s 82,898
+step  1240 | loss 0.0596 | elapsed   30.6s | tokens/s 82,917
+
+--- sample after 1240 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1245 | loss 0.0483 | elapsed   30.7s | tokens/s 82,981
+step  1250 | loss 0.0476 | elapsed   30.8s | tokens/s 83,049
+step  1255 | loss 0.0506 | elapsed   31.0s | tokens/s 82,811
+step  1260 | loss 0.0545 | elapsed   31.3s | tokens/s 82,468
+
+--- sample after 1260 updates ---
+The company is targeting £10m in countries such as Germany is more developed, and our consumer research firmly identified Philadelphia with Cadbury as a brochure. Upcoming Workshops @ Jill Price Studios Online I am offering a new series
+---
+
+step  1265 | loss 0.0484 | elapsed   31.4s | tokens/s 82,382
+step  1270 | loss 0.0539 | elapsed   31.6s | tokens/s 82,377
+step  1275 | loss 0.0728 | elapsed   31.7s | tokens/s 82,441
+step  1280 | loss 0.0644 | elapsed   31.8s | tokens/s 82,475
+
+--- sample after 1280 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1285 | loss 0.0543 | elapsed   31.9s | tokens/s 82,516
+step  1290 | loss 0.0597 | elapsed   32.0s | tokens/s 82,579
+step  1295 | loss 0.0563 | elapsed   32.1s | tokens/s 82,641
+step  1300 | loss 0.0405 | elapsed   32.2s | tokens/s 82,703
+
+--- sample after 1300 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1305 | loss 0.0414 | elapsed   32.3s | tokens/s 82,757
+step  1310 | loss 0.0404 | elapsed   32.4s | tokens/s 82,818
+step  1315 | loss 0.0693 | elapsed   32.5s | tokens/s 82,884
+step  1320 | loss 0.0595 | elapsed   32.6s | tokens/s 82,948
+
+--- sample after 1320 updates ---
+The company is targeting £1. Michael Roberson, director of corporate quality assurance for Publix Super Markets, Lakeland, Fla., said in the U Connect Live session that the chain is “disappointed” in
+---
+
+step  1325 | loss 0.0651 | elapsed   32.7s | tokens/s 83,008
+step  1330 | loss 0.0417 | elapsed   32.8s | tokens/s 83,065
+step  1335 | loss 0.0419 | elapsed   33.0s | tokens/s 82,802
+step  1340 | loss 0.0448 | elapsed   33.1s | tokens/s 82,813
+
+--- sample after 1340 updates ---
+The company is supporting the launch with the first year. The new version of the exchange, 2-301.15||Corrected During Inspection Two food employees were observed cleaning their hands in three compartment sink.| ALL
+---
+
+step  1345 | loss 0.0433 | elapsed   33.2s | tokens/s 82,876
+step  1350 | loss 0.0567 | elapsed   33.3s | tokens/s 82,935
+step  1355 | loss 0.0462 | elapsed   33.4s | tokens/s 82,996
+step  1360 | loss 0.0674 | elapsed   33.5s | tokens/s 83,055
+
+--- sample after 1360 updates ---
+The company is supporting the launch with a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step  1365 | loss 0.0688 | elapsed   33.6s | tokens/s 83,114
+step  1370 | loss 0.0496 | elapsed   33.7s | tokens/s 83,167
+step  1375 | loss 0.0520 | elapsed   33.8s | tokens/s 83,226
+step  1380 | loss 0.0515 | elapsed   34.0s | tokens/s 83,187
+
+--- sample after 1380 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1385 | loss 0.0637 | elapsed   34.1s | tokens/s 83,245
+step  1390 | loss 0.0555 | elapsed   34.2s | tokens/s 83,305
+step  1395 | loss 0.0500 | elapsed   34.3s | tokens/s 83,364
+step  1400 | loss 0.0425 | elapsed   34.4s | tokens/s 83,421
+
+--- sample after 1400 updates ---
+The company is supporting the launch with the targeting 2.2,000 tonnes in volume sales – equivalent to about £10m – in the first year. If they reached this volume of sales, the new Philadelphia
+---
+
+step  1405 | loss 0.0518 | elapsed   34.7s | tokens/s 82,918
+step  1410 | loss 0.0434 | elapsed   34.9s | tokens/s 82,740
+step  1415 | loss 0.0491 | elapsed   35.0s | tokens/s 82,687
+step  1420 | loss 0.0511 | elapsed   35.1s | tokens/s 82,743
+
+--- sample after 1420 updates ---
+The company is targeting £10m in sales – in the first year. The new cheese and chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next to plain Philadelphia Light.
+---
+
+step  1425 | loss 0.0376 | elapsed   35.3s | tokens/s 82,722
+step  1430 | loss 0.0532 | elapsed   35.4s | tokens/s 82,780
+step  1435 | loss 0.0587 | elapsed   35.5s | tokens/s 82,835
+step  1440 | loss 0.0538 | elapsed   35.6s | tokens/s 82,892
+
+--- sample after 1440 updates ---
+The company is bringing together two of its Harvards problem, not mine. This would have been a funny joke to those of us involved in dealing with you people, but it would have been a PR non-
+---
+
+step  1445 | loss 0.0427 | elapsed   35.8s | tokens/s 82,719
+step  1450 | loss 0.0635 | elapsed   35.9s | tokens/s 82,776
+step  1455 | loss 0.0519 | elapsed   36.0s | tokens/s 82,833
+step  1460 | loss 0.0472 | elapsed   36.1s | tokens/s 82,888
+
+--- sample after 1460 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1465 | loss 0.0463 | elapsed   36.2s | tokens/s 82,943
+step  1470 | loss 0.0541 | elapsed   36.3s | tokens/s 82,998
+step  1475 | loss 0.0486 | elapsed   36.4s | tokens/s 83,049
+step  1480 | loss 0.0404 | elapsed   36.5s | tokens/s 83,103
+
+--- sample after 1480 updates ---
+The company is supporting the launch with a £1.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step  1485 | loss 0.0534 | elapsed   36.6s | tokens/s 83,156
+step  1490 | loss 0.0541 | elapsed   36.7s | tokens/s 83,213
+step  1495 | loss 0.0455 | elapsed   36.8s | tokens/s 83,267
+step  1500 | loss 0.0465 | elapsed   36.9s | tokens/s 83,252
+
+--- sample after 1500 updates ---
+The company is supporting the launch with the targeting 1.2,000 tonnes in volume sales – equivalent to about £10m – in the first year. If they reached this volume of sales, the new Philadelphia
+---
+
+step  1505 | loss 0.0609 | elapsed   37.0s | tokens/s 83,307
+step  1510 | loss 0.0565 | elapsed   37.1s | tokens/s 83,326
+step  1515 | loss 0.0558 | elapsed   37.2s | tokens/s 83,366
+step  1520 | loss 0.0634 | elapsed   37.3s | tokens/s 83,417
+
+--- sample after 1520 updates ---
+The company is supporting the launch with a £1. Fill one with 28 and 2010 Season - Bowman pulls down CCIW honor |Matt Bowman was named CCIW "Runner of the Week"
+---
+
+step  1525 | loss 0.0525 | elapsed   37.4s | tokens/s 83,472
+step  1530 | loss 0.0483 | elapsed   37.5s | tokens/s 83,522
+step  1535 | loss 0.0490 | elapsed   37.7s | tokens/s 83,478
+step  1540 | loss 0.0537 | elapsed   37.8s | tokens/s 83,529
+
+--- sample after 1540 updates ---
+The company is supporting the launch with the targeting £10m in sales since its October 2010 launch and has a 6.6% value share of the chocolate spread market. Kraft Foods UK marketing manager Bruce
+---
+
+step  1545 | loss 0.0499 | elapsed   37.9s | tokens/s 83,568
+step  1550 | loss 0.0556 | elapsed   38.0s | tokens/s 83,619
+step  1555 | loss 0.0731 | elapsed   38.1s | tokens/s 83,668
+step  1560 | loss 0.0555 | elapsed   38.2s | tokens/s 83,618
+
+--- sample after 1560 updates ---
+The company is supporting the launch with the targeting 2 do very well and is targeting £10m in sales in the first year. The new cheese and chocolate spread is being launched on 1 February and will be
+---
+
+step  1565 | loss 0.0534 | elapsed   38.4s | tokens/s 83,425
+step  1570 | loss 0.0445 | elapsed   38.5s | tokens/s 83,422
+step  1575 | loss 0.0456 | elapsed   38.6s | tokens/s 83,475
+step  1580 | loss 0.0443 | elapsed   38.8s | tokens/s 83,359
+
+--- sample after 1580 updates ---
+The company is targeting £10m in sales in the first year. The new cheese and chocolate spread is being launched on 1 February and will be appear in the chilled dairy aisle next to plain Philadelphia Light. It
+---
+
+step  1585 | loss 0.0522 | elapsed   38.9s | tokens/s 83,409
+step  1590 | loss 0.0547 | elapsed   39.0s | tokens/s 83,460
+step  1595 | loss 0.0375 | elapsed   39.1s | tokens/s 83,511
+step  1600 | loss 0.0392 | elapsed   39.2s | tokens/s 83,562
+
+--- sample after 1600 updates ---
+The company is targeting £10m in sales in the first year. If they reached this volume of sales, the new Philadelphia with Cadbury would have the same market value as Garlic & Herb, currently the biggest-selling
+---
+
+step  1605 | loss 0.0457 | elapsed   39.5s | tokens/s 83,316
+step  1610 | loss 0.0576 | elapsed   39.6s | tokens/s 83,355
+step  1615 | loss 0.0437 | elapsed   39.7s | tokens/s 83,404
+step  1620 | loss 0.0475 | elapsed   39.8s | tokens/s 83,409
+
+--- sample after 1620 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1625 | loss 0.0553 | elapsed   39.9s | tokens/s 83,457
+step  1630 | loss 0.0466 | elapsed   40.0s | tokens/s 83,384
+step  1635 | loss 0.0492 | elapsed   40.2s | tokens/s 83,340
+step  1640 | loss 0.0539 | elapsed   40.3s | tokens/s 83,388
+
+--- sample after 1640 updates ---
+The company is supporting the launch with a £3,3 to get the launch with a £1.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to
+---
+
+step  1645 | loss 0.0495 | elapsed   40.4s | tokens/s 83,439
+step  1650 | loss 0.0593 | elapsed   40.5s | tokens/s 83,488
+step  1655 | loss 0.0472 | elapsed   40.6s | tokens/s 83,536
+step  1660 | loss 0.0423 | elapsed   40.7s | tokens/s 83,438
+
+--- sample after 1660 updates ---
+The company is supporting the launch with a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step  1665 | loss 0.0453 | elapsed   40.8s | tokens/s 83,484
+step  1670 | loss 0.0452 | elapsed   40.9s | tokens/s 83,533
+step  1675 | loss 0.0453 | elapsed   41.0s | tokens/s 83,574
+step  1680 | loss 0.0602 | elapsed   41.3s | tokens/s 83,403
+
+--- sample after 1680 updates ---
+The company is targeting £10m in countries such as Germany is more developed, and our consumer research firmly identified Philadelphia with Cadbury as a snack.” You must be a registered member to view this page.| If you
+---
+
+step  1685 | loss 0.0611 | elapsed   41.4s | tokens/s 83,441
+step  1690 | loss 0.0549 | elapsed   41.5s | tokens/s 83,476
+step  1695 | loss 0.0458 | elapsed   41.6s | tokens/s 83,512
+step  1700 | loss 0.0619 | elapsed   41.7s | tokens/s 83,545
+
+--- sample after 1700 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1705 | loss 0.0581 | elapsed   41.8s | tokens/s 83,586
+step  1710 | loss 0.0523 | elapsed   41.9s | tokens/s 83,631
+step  1715 | loss 0.0528 | elapsed   42.0s | tokens/s 83,675
+step  1720 | loss 0.0458 | elapsed   42.1s | tokens/s 83,720
+
+--- sample after 1720 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1725 | loss 0.0504 | elapsed   42.2s | tokens/s 83,626
+step  1730 | loss 0.0410 | elapsed   42.3s | tokens/s 83,663
+step  1735 | loss 0.0502 | elapsed   42.5s | tokens/s 83,693
+step  1740 | loss 0.0485 | elapsed   42.6s | tokens/s 83,728
+
+--- sample after 1740 updates ---
+The company is supporting the launch with a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step  1745 | loss 0.0575 | elapsed   42.7s | tokens/s 83,763
+step  1750 | loss 0.0581 | elapsed   42.8s | tokens/s 83,798
+step  1755 | loss 0.0437 | elapsed   42.9s | tokens/s 83,723
+step  1760 | loss 0.0602 | elapsed   43.1s | tokens/s 83,577
+
+--- sample after 1760 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1765 | loss 0.0402 | elapsed   43.2s | tokens/s 83,622
+step  1770 | loss 0.0529 | elapsed   43.3s | tokens/s 83,667
+step  1775 | loss 0.0564 | elapsed   43.4s | tokens/s 83,705
+step  1780 | loss 0.0416 | elapsed   43.5s | tokens/s 83,741
+
+--- sample after 1780 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1785 | loss 0.0421 | elapsed   43.6s | tokens/s 83,779
+step  1790 | loss 0.0469 | elapsed   43.8s | tokens/s 83,778
+step  1795 | loss 0.0360 | elapsed   43.9s | tokens/s 83,697
+step  1800 | loss 0.0695 | elapsed   44.0s | tokens/s 83,738
+
+--- sample after 1800 updates ---
+The company is supporting the launch with a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step  1805 | loss 0.0510 | elapsed   44.1s | tokens/s 83,782
+step  1810 | loss 0.0402 | elapsed   44.3s | tokens/s 83,707
+step  1815 | loss 0.0465 | elapsed   44.4s | tokens/s 83,709
+step  1820 | loss 0.0600 | elapsed   44.5s | tokens/s 83,752
+
+--- sample after 1820 updates ---
+The company is supporting the launch with the launch with a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the
+---
+
+step  1825 | loss 0.0621 | elapsed   44.8s | tokens/s 83,380
+step  1830 | loss 0.0578 | elapsed   45.2s | tokens/s 82,952
+step  1835 | loss 0.0583 | elapsed   45.5s | tokens/s 82,532
+step  1840 | loss 0.0455 | elapsed   45.7s | tokens/s 82,401
+
+--- sample after 1840 updates ---
+The company is supporting the launch with a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step  1845 | loss 0.0549 | elapsed   45.9s | tokens/s 82,265
+step  1850 | loss 0.0457 | elapsed   46.1s | tokens/s 82,134
+step  1855 | loss 0.0470 | elapsed   46.2s | tokens/s 82,179
+step  1860 | loss 0.0545 | elapsed   46.3s | tokens/s 82,227
+
+--- sample after 1860 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1865 | loss 0.0556 | elapsed   46.4s | tokens/s 82,271
+step  1870 | loss 0.0524 | elapsed   46.5s | tokens/s 82,316
+step  1875 | loss 0.0583 | elapsed   46.6s | tokens/s 82,356
+step  1880 | loss 0.0492 | elapsed   46.7s | tokens/s 82,403
+
+--- sample after 1880 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1885 | loss 0.0472 | elapsed   46.8s | tokens/s 82,432
+step  1890 | loss 0.0434 | elapsed   47.0s | tokens/s 82,400
+step  1895 | loss 0.0430 | elapsed   47.1s | tokens/s 82,422
+step  1900 | loss 0.0410 | elapsed   47.2s | tokens/s 82,467
+
+--- sample after 1900 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1905 | loss 0.0543 | elapsed   47.3s | tokens/s 82,447
+step  1910 | loss 0.0368 | elapsed   47.5s | tokens/s 82,301
+step  1915 | loss 0.0455 | elapsed   47.7s | tokens/s 82,298
+step  1920 | loss 0.0514 | elapsed   47.9s | tokens/s 82,133
+
+--- sample after 1920 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1925 | loss 0.0510 | elapsed   48.0s | tokens/s 82,071
+step  1930 | loss 0.0423 | elapsed   48.2s | tokens/s 81,947
+step  1935 | loss 0.0475 | elapsed   48.3s | tokens/s 81,985
+step  1940 | loss 0.0464 | elapsed   48.4s | tokens/s 82,028
+
+--- sample after 1940 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  1945 | loss 0.0529 | elapsed   48.5s | tokens/s 82,071
+step  1950 | loss 0.0554 | elapsed   48.6s | tokens/s 82,113
+step  1955 | loss 0.0479 | elapsed   48.7s | tokens/s 82,157
+step  1960 | loss 0.0477 | elapsed   48.9s | tokens/s 82,167
+
+--- sample after 1960 updates ---
+The company is supporting the launch with a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step  1965 | loss 0.0422 | elapsed   49.0s | tokens/s 82,207
+step  1970 | loss 0.0545 | elapsed   49.1s | tokens/s 82,251
+step  1975 | loss 0.0516 | elapsed   49.2s | tokens/s 82,219
+step  1980 | loss 0.0584 | elapsed   49.3s | tokens/s 82,186
+
+--- sample after 1980 updates ---
+The company is supporting the launch with the launch with a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the
+---
+
+step  1985 | loss 0.0470 | elapsed   49.6s | tokens/s 82,044
+step  1990 | loss 0.0509 | elapsed   49.7s | tokens/s 82,055
+step  1995 | loss 0.0545 | elapsed   49.8s | tokens/s 82,092
+step  2000 | loss 0.0523 | elapsed   49.9s | tokens/s 82,092
+
+--- sample after 2000 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2005 | loss 0.0546 | elapsed   50.0s | tokens/s 82,135
+step  2010 | loss 0.0479 | elapsed   50.1s | tokens/s 82,176
+step  2015 | loss 0.0483 | elapsed   50.2s | tokens/s 82,184
+step  2020 | loss 0.0420 | elapsed   50.3s | tokens/s 82,212
+
+--- sample after 2020 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2025 | loss 0.0472 | elapsed   50.4s | tokens/s 82,252
+step  2030 | loss 0.0445 | elapsed   50.5s | tokens/s 82,271
+step  2035 | loss 0.0540 | elapsed   50.6s | tokens/s 82,312
+step  2040 | loss 0.0524 | elapsed   50.7s | tokens/s 82,354
+
+--- sample after 2040 updates ---
+The company is supporting the launch with the targeting £10m in sales – in the first year. If they reached this volume of sales, the new Philadelphia with Cadbury would have the same market value as Garlic &
+---
+
+step  2045 | loss 0.0596 | elapsed   50.8s | tokens/s 82,394
+step  2050 | loss 0.0531 | elapsed   51.0s | tokens/s 82,338
+step  2055 | loss 0.0457 | elapsed   51.1s | tokens/s 82,296
+step  2060 | loss 0.0408 | elapsed   51.5s | tokens/s 81,942
+
+--- sample after 2060 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2065 | loss 0.0596 | elapsed   51.6s | tokens/s 81,980
+step  2070 | loss 0.0231 | elapsed   51.7s | tokens/s 82,007
+step  2075 | loss 0.0547 | elapsed   51.8s | tokens/s 81,984
+step  2080 | loss 0.0454 | elapsed   51.9s | tokens/s 82,024
+
+--- sample after 2080 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2085 | loss 0.0550 | elapsed   52.0s | tokens/s 82,065
+step  2090 | loss 0.0441 | elapsed   52.2s | tokens/s 82,018
+step  2095 | loss 0.0536 | elapsed   52.3s | tokens/s 82,059
+step  2100 | loss 0.0454 | elapsed   52.4s | tokens/s 82,100
+
+--- sample after 2100 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2105 | loss 0.0482 | elapsed   52.5s | tokens/s 82,132
+step  2110 | loss 0.0358 | elapsed   52.8s | tokens/s 81,793
+step  2115 | loss 0.0477 | elapsed   52.9s | tokens/s 81,821
+step  2120 | loss 0.0421 | elapsed   53.1s | tokens/s 81,779
+
+--- sample after 2120 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2125 | loss 0.0448 | elapsed   53.2s | tokens/s 81,820
+step  2130 | loss 0.0408 | elapsed   53.3s | tokens/s 81,859
+step  2135 | loss 0.0464 | elapsed   53.4s | tokens/s 81,899
+step  2140 | loss 0.0440 | elapsed   53.5s | tokens/s 81,937
+
+--- sample after 2140 updates ---
+The company is supporting the launch with a £3.2m marketing budget in 2012 and is targeting 2,000 tonnes in volume sales – equivalent to about £10m – in the first year.
+---
+
+step  2145 | loss 0.0469 | elapsed   53.6s | tokens/s 81,899
+step  2150 | loss 0.0579 | elapsed   53.7s | tokens/s 81,936
+step  2155 | loss 0.0434 | elapsed   53.8s | tokens/s 81,974
+step  2160 | loss 0.0518 | elapsed   54.0s | tokens/s 81,931
+
+--- sample after 2160 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2165 | loss 0.0465 | elapsed   54.2s | tokens/s 81,804
+step  2170 | loss 0.0315 | elapsed   54.3s | tokens/s 81,843
+step  2175 | loss 0.0493 | elapsed   54.4s | tokens/s 81,881
+step  2180 | loss 0.0655 | elapsed   54.5s | tokens/s 81,918
+
+--- sample after 2180 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2185 | loss 0.0503 | elapsed   54.6s | tokens/s 81,887
+step  2190 | loss 0.0425 | elapsed   54.7s | tokens/s 81,924
+step  2195 | loss 0.0510 | elapsed   54.9s | tokens/s 81,896
+step  2200 | loss 0.0335 | elapsed   55.0s | tokens/s 81,933
+
+--- sample after 2200 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2205 | loss 0.0342 | elapsed   55.1s | tokens/s 81,972
+step  2210 | loss 0.0436 | elapsed   55.2s | tokens/s 82,010
+step  2215 | loss 0.0514 | elapsed   55.3s | tokens/s 82,033
+step  2220 | loss 0.0384 | elapsed   55.4s | tokens/s 82,069
+
+--- sample after 2220 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2225 | loss 0.0508 | elapsed   55.6s | tokens/s 82,020
+step  2230 | loss 0.0622 | elapsed   55.7s | tokens/s 82,021
+step  2235 | loss 0.0432 | elapsed   55.8s | tokens/s 82,059
+step  2240 | loss 0.0457 | elapsed   55.9s | tokens/s 82,070
+
+--- sample after 2240 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2245 | loss 0.0382 | elapsed   56.0s | tokens/s 82,107
+step  2250 | loss 0.0559 | elapsed   56.1s | tokens/s 82,110
+step  2255 | loss 0.0371 | elapsed   56.2s | tokens/s 82,146
+step  2260 | loss 0.0525 | elapsed   56.3s | tokens/s 82,182
+
+--- sample after 2260 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2265 | loss 0.0312 | elapsed   56.4s | tokens/s 82,219
+step  2270 | loss 0.0539 | elapsed   56.5s | tokens/s 82,252
+step  2275 | loss 0.0466 | elapsed   56.7s | tokens/s 82,205
+step  2280 | loss 0.0397 | elapsed   56.8s | tokens/s 82,210
+
+--- sample after 2280 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2285 | loss 0.0528 | elapsed   57.0s | tokens/s 82,114
+step  2290 | loss 0.0523 | elapsed   57.1s | tokens/s 82,112
+step  2295 | loss 0.0497 | elapsed   57.2s | tokens/s 82,150
+step  2300 | loss 0.0497 | elapsed   57.3s | tokens/s 82,186
+
+--- sample after 2300 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2305 | loss 0.0488 | elapsed   57.4s | tokens/s 82,214
+step  2310 | loss 0.0456 | elapsed   57.5s | tokens/s 82,235
+step  2315 | loss 0.0599 | elapsed   57.6s | tokens/s 82,259
+step  2320 | loss 0.0491 | elapsed   57.7s | tokens/s 82,288
+
+--- sample after 2320 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2325 | loss 0.0478 | elapsed   57.8s | tokens/s 82,314
+step  2330 | loss 0.0437 | elapsed   58.0s | tokens/s 82,343
+step  2335 | loss 0.0557 | elapsed   58.1s | tokens/s 82,371
+step  2340 | loss 0.0340 | elapsed   58.2s | tokens/s 82,398
+
+--- sample after 2340 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2345 | loss 0.0512 | elapsed   58.3s | tokens/s 82,427
+step  2350 | loss 0.0517 | elapsed   58.4s | tokens/s 82,457
+step  2355 | loss 0.0461 | elapsed   58.5s | tokens/s 82,490
+step  2360 | loss 0.0599 | elapsed   58.6s | tokens/s 82,524
+
+--- sample after 2360 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2365 | loss 0.0463 | elapsed   58.7s | tokens/s 82,557
+step  2370 | loss 0.0484 | elapsed   59.0s | tokens/s 82,256
+step  2375 | loss 0.0416 | elapsed   59.2s | tokens/s 82,149
+step  2380 | loss 0.0424 | elapsed   59.4s | tokens/s 82,042
+
+--- sample after 2380 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2385 | loss 0.0574 | elapsed   59.5s | tokens/s 82,071
+step  2390 | loss 0.0656 | elapsed   59.6s | tokens/s 82,104
+step  2395 | loss 0.0424 | elapsed   59.7s | tokens/s 82,139
+step  2400 | loss 0.0481 | elapsed   59.8s | tokens/s 82,173
+
+--- sample after 2400 updates ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+step  2405 | loss 0.0491 | elapsed   59.9s | tokens/s 82,203
+step  2410 | loss 0.0388 | elapsed   60.0s | tokens/s 82,236
+step  2410 | loss 0.0388 | elapsed   60.0s | tokens/s 82,236  (final)
+
+--- sample after training (final, step 2410) ---
+The company is bringing together two of its brands and launching Philadelphia with Cadbury, a chilled chocolate spread made from Philadelphia Light and Cadbury chocolate. Kraft believes the new product has the potential to do very well and is
+---
+
+Saved to results/: training_log.txt, loss_log.csv, loss_plot.png, samples.txt, samples.json, model.pt

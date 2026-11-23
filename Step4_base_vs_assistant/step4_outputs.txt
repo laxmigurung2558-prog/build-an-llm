@@ -1,0 +1,126 @@
+4a. BASE MODEL (SmolLM2-135M), Completion mode:
+
+What is 2+2? - run 1:
+The answer to this question can be found in the previous paragraph, but let's start with the following statement:
+    1 + 1 = 0.
+     But 0 and 1 are not equal!
+We see that there is a difference between "one plus one equals zero" and "zero plus one equals two." In other words, we need to ask ourselves how many things have been added or subtracted from our number system so far - which would also help us get an idea of what it means for something to add or subtract (or multiply or divide). This helps us make sense out of any given equation when you think about it like this.
+Example #1: What does 3 times 4 mean?
+This problem involves three different types of operations such as addition (+), multiplication (*) by whole numbers (up to four digits) and division by ten. We will look at each type separately before discussing their meaning later on.
+Solution: There are no rules governing these methods; they come naturally once you understand why we use them. Let's consider adding a few examples together first:
+1 + 3 = 4 5 * 6 = 30
+
+What is 2+2? - run 2:
+There are two ways to answer this question. The first way, which we have seen in the last section of the lesson, tells us that 2 + 2 = 5. But there’s a second way: 3 × 10 = 3 × 2 = 6. This gives us 4 + 8 = 12 as our final answer. If you want an explanation of why one method works and another doesn't, see the previous post in this series here.
+The other method involves addition by groups (also called commutative multiplication). This can be thought of like this:
+2 + 2 → 5 + 7 = 10 + 9 = 17 (In fact, if we add these together with the addition rule for adding numbers from left to right, we get 12.)
+So the number 2 + 2 would then become 5 + 7 or 10 + 9. But the same reasoning still applies when you multiply them both: 2 × 2 becomes 2 × 1, 2 × 1 adds up to 2 and 2 × 1 is equivalent to 5. This makes sense because 2
+
+What is 2+2? - run 3:
+We have a problem, and it’s not obvious what to do. How would you solve this problem so that it becomes easier for you to understand the solution of the problem?
+If we were in the same situation as the student in the example above, here are some hints:
+Try to think of your answer first by drawing a picture or making something that looks like an equation.
+If there is no answer given, try to figure out how to get from the number (or symbol) on the left side to the right side. Write down all possible ways to get from the numbers up until the “solution” point.
+If we can find two such solutions, then our equation will look just like the original one but with only one unknown value at each end. So if we write down all these equations, they should look very similar.
+So let’s go over step three again!
+Step Three: Use an Equation to Solve for a Variable
+Now that we know how to draw a picture of our variable, we need to use that image to determine its value. In this case, we know that the number on the left side has an exponent of four because it represents the number of times
+
+Paris landmarks - run 1:
+Here is my top 10 list of landmarks to see in Paris:
+the Eiffel Tower
+The Arc de Triomphe
+the Louvre Museum
+the Musée d'Orsay
+the Arc de Triomphe du Carrousel (the famous carousel)
+the Eiffel Tower, or more accurately the "Tour de France" (a race run on the Eiffel tower)
+the Louvre museum
+the Louvre Palace
+the Musée d'Orsay
+the Musée d'Orsay.
+
+Paris landmarks - run 2:
+Here is my top 10 list of landmarks to see in Paris:
+The Eiffel Tower
+ This iconic landmark was designed by Pierre-Étienne François Le Corbusier and completed in 1932. It measures 485 feet (150 m) long, with a height of 765 feet (235 m). The tower stands on the site of the former site of the Eiffel Theatre, which opened in 1889.
+Paris Metro
+If you've ever been stuck at home after a long day's work or were stranded during your vacation in Paris, there's no better way than to take a trip to the Paris Metro. You can find one for just about any time of the year but most days are during summer months when it's possible to travel around the city quickly. In addition to being the main transport hub of the city, the metro also provides connections between major cities across France.
+Tourist Attractions in Paris
+There are hundreds of different tourist attractions that are worth visiting while traveling through Paris. Some popular ones include the Mona Lisa Museum, the Louvre Museum, the Louvre Palace, and many more. There are some notable museums and art galleries in Paris as well including the Musée d'Ors
+
+Paris landmarks - run 3:
+Here is my top 10 list of landmarks to see in Paris:
+      1. the Musée du Louvre, which houses one of the most important collections of art ever created and displays some of the greatest masterpieces from all over the world.
+the Louvre Museum (the most famous museum in France), where we can see more than 5 million pieces of artwork dating back thousands of years. This includes paintings by Leonardo da Vinci, Michelangelo, Raphael, and even a few works by Rubens. The largest collection of artwork in the world, it also has one of the best collections of books on history, philosophy, and art.
+the Louvre Museum (one of the most famous museums in Europe) where we can see many fine examples of art including works by Picasso, Gauguin, Rembrandt, and even some paintings by Van Gogh and Van Dyke.
+the Musee d'Orsay (which contains many great masterpieces by the greatest artists in France, including Claude Monet, Edgar Degas, and Monet's wife). It holds an impressive collection of original paintings as well as historical pieces such as the Mona Lisa and the famous Louvre Fountain.
+the Musée d'Orsay (which includes a number of paintings by Monet
+
+4a. ASSISTANT MODEL (SmolLM2-135M-Instruct), Chat mode:
+
+What is 2+2? - run 1:
+Two and two is equal to four.
+
+What is 2+2? - run 2:
+Two and two equals four, or sometimes written as:
+2 + 2 = 4
+In mathematics, the symbol (+) represents addition and the symbol (-) represents subtraction, often used to indicate that an operation has occurred in reverse order from its standard form. So, "two plus two" would be equivalent to "four". The difference between these two operations can be thought of as a result being added back into the original quantity by performing the subtraction on both sides.
+
+What is 2+2? - run 3:
+Two and two add up to four, or more accurately stated as 4 + 1 (a convention adopted by many mathematicians). This may seem counterintuitive at first but it's essential for understanding the concept of addition in mathematics.
+In this context, "two" means both sides being equal, which allows us to simplify the expression further. By adding 1 together on the left side, we're essentially telling the computer that any number that can be expressed as 0 with no remainder when divided by 2 must also end up on the right side after subtracting the second factor from the original sum.
+Think of it like this: if you have two apples and you want to share them equally among three people, you don't need to assign one person an extra apple; instead, you ask each person what they would like to receive. You just give the same quantity to each person based on their needs. In this case, the total amount given to each person remains the same (the two apples), so the answer is indeed four.
+So, the key point here is not whether "two plus two equals four," but rather how you treat these numbers together – either as two apples or two apples and two bananas.
+
+Paris landmarks - run 1:
+Here is my top 10 list of landmarks to see in Paris:
+I'm glad you're enjoying the highlights of Paris! Here's a comprehensive guide on how to visit the city, including iconic landmarks and attractions that will leave you with unforgettable experiences.
+To start, let's begin at the heart of Paris – the Eiffel Tower. This iron lady stands tall over 263 meters (865 feet) above the Seine River, offering breathtaking views of the city. From its observation decks or from observation domes, you'll get a glimpse into the world of fashion, art, and culture.
+Next, we have the famous Notre Dame Cathedral. A masterpiece of Gothic architecture, this cathedral was built for the royal family of France during the reign of King Louis XV. Be sure to take a stroll through the nearby Latin Quarter, where you can find charming cafes, shops, and markets selling local delicacies.
+We also have the Arc de Triomphe, a monumental arch honoring French soldiers who fought in World War I and II. It's a beautiful sight to behold, with two statues standing side by side. Don't miss the stunning view of the Eiffel Tower from the Champ de Mars park.
+Another must-see landmark is the Louvre Museum, home to an impressive collection of
+
+Paris landmarks - run 2:
+Here is my top 10 list of landmarks to see in Paris:
+Paris, the City of Light, has many incredible sights and attractions to explore. Here's a top 10 list of landmarks to see in Paris:
+Eiffel Tower: The iconic iron lady stands tall at 324 meters (1,069 feet) above the Seine River. It attracts millions of visitors each year.
+Louvre Museum: Home to thousands of works of art including the Mona Lisa, Venus de Milo, and David, the Louvre is one of the world's largest museums.
+Notre-Dame Cathedral: A masterpiece of Gothic architecture, Notre-Dame Cathedral was built on the site of the cathedral that once belonged to the French crown.
+Sainte-Chapelle: This beautiful church offers breathtaking views of the city from its observation deck.
+Rue des Anglais: Famous for its picturesque gardens, this street runs along the left bank of the Seine.
+Montmartre: This artistic neighborhood is known for its bohemian vibe and stunning views of the city skyline.
+Valence: Located near the Luxembourg Gardens, this charming neighborhood features an impressive collection
+
+Paris landmarks - run 3:
+Here is my top 10 list of landmarks to see in Paris:
+Paris, the City of Light, boasts an impressive array of historical sites and cultural landmarks. Here's a suggested list that incorporates the top attractions you might want to visit during your stay there:
+Eiffel Tower (Eiffel LaGraine): A masterpiece of engineering, this iron lady towers over the city, offering breathtaking views of the Seine River.
+Louvre Museum (Louvre): Home to thousands of works of art by famous artists like Monet, Renoir, and Van Gogh, the Louvre is one of the most visited museums in the world.
+Champs-Élysées (Champs-Élysées): A central avenue lined with high-end boutiques, cafes, and restaurants, this iconic shopping district offers a mix of modern and traditional European design.
+Isles de Cluny (Isles de Cluny): A charming medieval town on the French Riviera, it's home to numerous historic castles and cathedrals, including Notre-Dame Cathedral.
+Montmartre (Montmartre): A vibrant artistic and literary neighborhood known for its bohemian vibe, this stunning example of the 19th
+
+4b. PROMPTING THE BASE MODEL (SmolLM2-135M), Completion mode:
+
+Plain question "Why is the sky blue?":
+Why is the sky blue? The answer to this question lies in our atmosphere. The air molecules are moving at high speeds, so they scatter red light more than blue ones because of their wavelength and frequency. This phenomenon creates a blue sky when viewed from space or by humans (and most animals). What color does not exist on Earth? If you look at any object through a telescope, it will appear black. But if you shine sunlight into your eyes directly, then objects that reflect much less light appear white. And these same things happen with colors in the visible spectrum. In other words: all colors have some kind of "wavelength" associated with them! Is there something inside the sky called "the sky"? There's nothing there; the sky is just an artificial image created by man-made lighting systems. Can we see stars outside of the night sky? Yes, but only after long nights. Stars don't move very fast, even for us living beings who live on earth. How many planets can be seen in the sky during the day time? It depends on where you are located. For example, Mars has its own planet within the constellation Canis Major (which also contains the Moon). Do you think the moon changes shape over time?
+
+Fake Human/Assistant conversation ending with "Assistant:":
+Human: What is the capital of France? Assistant: The capital of France is Paris. Human: How many legs does a spider have? Assistant: A spider has eight legs. Human: Why is the sky blue? Assistant: It's because of all those tiny molecules that are in the air. Human: What color is water? Assistant: Water is usually blue, but it can also be green or purple. Human: What animal eats bugs? Assistant: A bug is a kind of insect. Human: Which part of your body do you have five fingers on? Assistant: My finger is my hand! Human: Where did the sun come from? Assistant: It was made by a star named Helios. Human: Who invented the wheel? Assistant: It came from an ancient Greek inventor named Archimedes. Human: What is the best type of bread? Assistant: A loaf of bread is very good if you eat it warm and covered with butter. Human: What country owns the biggest army in the world? Assistant: The United States of America is the largest military power in the world. Human: What is the name of the most popular game at the park? Assistant: It’s called soccer! Human: What kind of shoes do you wear when you play soccer? Assistant: They're called cleats. Human: What color shirt would you like
+
+4c. KNOWLEDGE CUTOFF (SmolLM2-135M base, Completion mode):
+
+Nobel 2020:
+The 2020 Nobel Prize in Economic Sciences was awarded to a team of economists who developed the mathematical models that predicted global warming. They have also been awarded the 2018 Nobel Prize in Economics for their work on climate change and its impacts on economies worldwide, including those in China.
+So how did this all happen? Why do we need an economic model called the Laffer Curve, if it’s not even there yet?
+In his lecture at the annual meeting of the American Economic Association (AEA), Nobel laureate Robert K. Merton said: “There is no reason why I should be able to get away with saying ‘the theory works’. The basic idea here is simple.”
+It takes two inputs – money and time – to produce any economic output. And, as economists know, the more input you give someone, the less they will want; the more time you give them, the greater demand they will have. The first step in understanding the effect of government policies on GDP growth is to understand what happens when both are increased simultaneously or, alternatively, taken together.
+What do Merton and his colleagues mean by that last statement? To answer that question, we must look back over history to see when governments began raising taxes and spending.
+From ancient Rome to
+
+Correct winners (nobelprize.org): Paul R. Milgrom and Robert B. Wilson, "for improvements to auction theory and inventions of new auction formats". Model was WRONG: it invented a team of climate economists.
+
+Nobel 2026:
+The 2026 Nobel Prize in Economic Sciences was awarded to two scientists for their research into the origins of life on Earth. In an interview with BBC News, Dr. James Lovelock, a British scientist who has studied life and climate at the University of Sussex said: “There are many things that could go wrong, but if you have not evolved there is no point worrying about it.” The Nobel committee’s selection is due to be announced next week. Scientists estimate that only about one-third of all bacteria species on our planet can survive without sunlight or oxygen, which explains why some plants cannot grow well in wet conditions – as they lack chlorophyll, the plant pigment responsible for photosynthesis. But even so, most terrestrial ecosystems depend on photosynthetic organisms such as phytoplankton, algae, cyanobacteria and bacteria. As human beings we rely heavily upon the sun to provide energy, which also drives much of our economy. Our ability to extract fossil fuels from the ground allows us to create electricity, heat homes and fuel vehicles; however, this source of energy must come from somewhere. This requires vast amounts of water and other resources like land, sand and air to produce. So how do we make use of these natural processes? For example, in the last few decades humans have been using technology to improve soil fertility by applying organic matter
+
+Correct winners (nobelprize.org): Robert E. Hall and Michael Woodford, "for microeconomic foundations of macroeconomic stabilisation". Model was WRONG: it invented two scientists researching the origins of life. The 2026 prize was announced after the model was trained, so it could not know the answer.
